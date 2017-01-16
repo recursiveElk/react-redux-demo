@@ -4,7 +4,7 @@ import {Link} from 'react-router';
 class CoursesPage extends React.Component {
     render(){
         return (
-            <div className="container-fluid">
+            <div>
                 <h1>Courses</h1>
                 
             </div>
